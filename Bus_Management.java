@@ -1,7 +1,7 @@
 package First;
 import java.util.Scanner;
 
-public class Banking {
+public class BankingManagement {
 	 static void deposit(int c)//DEPOSIT
 	{
 		System.out.println("Enter your deposit amount");
